@@ -124,7 +124,7 @@
             <div class="card" style="width: 18rem;">
                 <img src="./images/fotos/corte (2).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                    <h5 class="card-title">Barrido de calles</h5>
+                    <h5 class="card-title">Corte cesped</h5>
                     </div>
             </div>         
         </div>  
@@ -132,7 +132,7 @@
             <div class="card" style="width: 18rem;">
                 <img src="./images/fotos/corte (4).jpg" class="card-img-top" alt="...">
                     <div class="card-body">
-                    <h5 class="card-title">Barrido de calles</h5>
+                    <h5 class="card-title">Corte cesped</h5>
                     </div>
             </div>         
         </div>  
